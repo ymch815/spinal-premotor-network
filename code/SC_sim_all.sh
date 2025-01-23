@@ -24,3 +24,8 @@
 # python SC_sim.py V1_V2b ablation 0.2 1.0 2 50 21 freq_irflag_ccrate_jointfreq None None Jei 100
 # python SC_sim.py V1_V2b ablation 0.2 1.0 2 50 21 freq_irflag_ccrate_jointfreq None None Jei 150
 # python SC_sim.py V1_V2b ablation 0.2 1.0 2 50 21 freq_irflag_ccrate_jointfreq None None Jei 250
+
+# python SC_sim.py Jie2 modulation 30 70 2 50 21 freq_irflag_ccrate_jointfreq None None Jei2 0
+# python SC_sim.py Jie2 modulation 30 70 2 50 21 freq_irflag_ccrate_jointfreq None None Jei2 10
+# python SC_sim.py Jie2 modulation 30 70 2 50 21 freq_irflag_ccrate_jointfreq None None Jei2 33
+# python SC_sim.py Jie2 modulation 30 70 2 50 21 freq_irflag_ccrate_jointfreq None None Jei2 66

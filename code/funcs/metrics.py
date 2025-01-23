@@ -34,7 +34,6 @@ def peak_cal_joint(dynamicsPeak,dynamicsAmp,L,minangles,dt, MFdynamics, MXdynami
 #         print(NpeaksMF,NpeaksMX,Nbehavior)
         if abs(Nbehavior-min(NpeaksMF-1,NpeaksMX-1))<=1:
             ccrate = 1.0
- 
     return freq, ccrate
 
 # compute metrics from MF/MX dynamics in neural model
