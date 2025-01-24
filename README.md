@@ -1,5 +1,6 @@
 # Code for paper "The spinal premotor network driving high-frequency flexor-extensor alternation"
-Simulation of a neuromechanical model that captures the activity of spinal premotor network driving scratching behavior
+Simulation of a neuromechanical model that captures the activity of spinal premotor network driving scratching behavior.
+
 The code for joint model are build on Fink et al. (2014), see also
 https://github.com/anagamori/Fink2014-model/blob/main/biomechanical_model.ipynb
 
