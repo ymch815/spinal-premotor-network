@@ -7,13 +7,7 @@ functions for biomechanical model
 import numpy as np
 
 
-"""
-"Nonlinear Muscle" model
-cr. Akira Nagamori
 
-https://github.com/anagamori/Fink2014-model/blob/main/biomechanical_model.ipynb
-
-"""
 
 def FL_function(L):
     beta = 1.55
